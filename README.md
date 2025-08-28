@@ -15,9 +15,8 @@ The project **Helios Secure Valt** (by Helio Abreu Neto / HANSoft) uses the foll
 ## 2. cryptography
 - **License**: Apache License 2.0 and BSD License (dual-licensed)  
 - **Website**: [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
-- You may choose either license:  
-  - [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)  
-  - [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+license:  
+- **License Text**: [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)  
 
 ---
 
@@ -38,7 +37,6 @@ The project **Helios Secure Valt** (by Helio Abreu Neto / HANSoft) uses the foll
 ## 5. Python Standard Library Modules
 - Includes: `tkinter`, `hashlib`, `base64`, `struct`, `datetime`, `os`, `sys`  
 - **License**: Python Software Foundation License (PSFL)  
-- Notes: These modules are bundled with Python. No additional action required.
 
 ---
 
