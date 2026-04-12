@@ -1,4 +1,9 @@
 # heliosSecureVault
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
+
+> **Status:** Descontinuado  
+> Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 ## Helios Secure Vault v1.0.0
 
@@ -71,6 +76,11 @@ O desenvolvedor **não se responsabiliza por perda de dados ou acesso não autor
 Este aplicativo é fornecido **"no estado em que se encontra" ("as is")**, sem garantias de qualquer tipo, expressas ou implícitas.
 
 O desenvolvedor não garante que o software seja totalmente livre de falhas ou vulnerabilidades e **não se responsabiliza por danos diretos ou indiretos** resultantes do uso do programa.
+
+Este software destina-se ao armazenamento local protegido de conteúdos e arquivos, com uso de mecanismos criptográficos, validação de integridade e demais recursos técnicos descritos em sua documentação.
+A HANSoft não garante recuperação de dados em toda e qualquer hipótese de falha, corrupção, esquecimento de senha, dano ao dispositivo, exclusão indevida, interrupção elétrica, falha do sistema operacional, infecção por malware, erro humano ou comprometimento externo do ambiente.
+O usuário é responsável por manter cópias de segurança independentes dos conteúdos relevantes, bem como por conservar em segurança credenciais, chaves, senhas e meios de acesso necessários ao uso do software.
+O uso do software não elimina a necessidade de boas práticas de segurança digital, incluindo atualização do sistema, proteção do dispositivo, verificação periódica de integridade e rotina de backup.
 
 ---
 
