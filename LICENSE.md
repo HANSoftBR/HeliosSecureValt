@@ -1,4 +1,6 @@
 # LICENÇA DE USO — SOFTWARE PROPRIETÁRIO
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 **Nome do Software:** Helios Secure Vault  
 **Autor:** HANSoft (Desenvolvedor independente)  
@@ -44,19 +46,48 @@ intelectual, marca registrada, tecnologia de criptografia ou patente.
 
 ---
 
-## 4. ISENÇÃO DE GARANTIA
+## 4. ISENÇÃO DE GARANTIA E LIMITAÇÃO DE RESPONSABILIDADE
 
-O software é fornecido **"NO ESTADO EM QUE SE ENCONTRA"**, sem garantias de qualquer tipo,  
-expressas ou implícitas, incluindo, mas não se limitando, às garantias de comercialização,  
-adequação a uma finalidade específica ou não violação de direitos de terceiros.
+O **Helios Secure Vault** é fornecido **"NO ESTADO EM QUE SE ENCONTRA"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas, incluindo, sem limitação:
 
-O **Helios Secure Vault** é uma ferramenta de criptografia e proteção de arquivos  
-destinada a auxiliar na segurança de dados do usuário. Ele não garante proteção  
-absoluta contra todas as formas de perda de dados, ataques ou falhas de sistema.
+- garantias de comercialização;
+- adequação a uma finalidade específica;
+- funcionamento ininterrupto;
+- ausência de falhas, erros, bugs ou vulnerabilidades;
+- não violação de direitos de terceiros.
 
-Em nenhuma hipótese a **HANSoft** será responsável por quaisquer danos diretos,  
-indiretos, incidentais ou consequenciais decorrentes do uso ou incapacidade  
-de uso deste software.
+O **Helios Secure Vault** é uma ferramenta destinada ao armazenamento local protegido de conteúdos e arquivos, com uso de mecanismos criptográficos, validação de integridade e demais recursos técnicos descritos em sua documentação.
+
+Embora o software utilize práticas de segurança e proteção criptográfica, a **HANSoft** não garante:
+
+- proteção absoluta contra todas as formas de perda de dados, acesso indevido, ataques, falhas de sistema ou comprometimento do ambiente do usuário;
+- recuperação integral de dados em qualquer hipótese de falha;
+- impossibilidade de perda de acesso ao conteúdo em caso de esquecimento de senha, perda de credenciais ou dano ao dispositivo;
+- ausência total de comportamentos inesperados durante o uso.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+**O usuário é responsável por:**
+
+- manter cópias de segurança independentes dos conteúdos relevantes;
+- proteger credenciais, chaves, senhas e demais meios de acesso necessários ao uso do software;
+- verificar periodicamente a integridade dos dados armazenados;
+- adotar boas práticas de segurança digital, incluindo atualização do sistema, proteção do dispositivo e rotina de backup.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- perda, corrupção ou exclusão indevida de dados;
+- esquecimento de senha ou perda de credenciais de acesso;
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, keyloggers, acesso físico ao dispositivo, captura indevida de tela, engenharia social, interrupção elétrica, erro humano ou interferência de antivírus, filtros e softwares de terceiros.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de segurança, funcionamento contínuo ou recuperação total de dados em todos os cenários.
 
 ---
 
