@@ -5,7 +5,7 @@ Este projeto não está mais em desenvolvimento ou manutenção ativa.
 > **Status:** Descontinuado  
 > Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
-## Helios Secure Vault v1.0.0
+## Helios Secure Vault v2.6.0
 
 📧 **Contato:** devhansoft@gmail.com  
 📄 **Licença:** Licença Proprietária — HANSoft
